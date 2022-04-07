@@ -22,3 +22,4 @@ task: Available tasks for this project:
 ## Ref
 
 - [[Go 教學] 什麼是 graceful shutdown?](https://blog.wu-boy.com/2020/02/what-is-graceful-shutdown-in-golang/)
+- [[DAY29]Golang Graceful Shutdown優雅的關機(?)](https://ithelp.ithome.com.tw/articles/10249227)
